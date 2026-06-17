@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781657268 source:/home/ynascimento/workspace/learninc/exer_14/main.c
+	<stdio.h>
+	<stdlib.h>
+
