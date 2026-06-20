@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.16)
 
 project(exer_cap03_livro LANGUAGES C)
 
-add_executable(exer_cap03_livro main.c)
+add_executable(exer_cap03_livro 01_Operacoes_atribuicao.c)
 
 include(GNUInstallDirs)
 install(TARGETS exer_cap03_livro
