@@ -10,3 +10,9 @@ add_executable(02_Operacoes_atribuicao
     02_Operacoes_atribuicao.c
 
 )
+
+add_executable(03_Operacoes_atribuicao
+    03_Operacoes_atribuicao.c
+
+)
+
